@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/BackButton.png</file>
+        <file>res/BackButtonSelected.png</file>
+        <file>res/BackButtonSound.wav</file>
+        <file>res/bkmusic.mp3</file>
+        <file>res/Coin0001.png</file>
+        <file>res/LevelWinSound.wav</file>
+        <file>res/MenuSceneStartButton.png</file>
+        <file>res/TapButtonSound.wav</file>
+        <file>res/MainPic.png</file>
+        <file>res/doubleBall2.gif</file>
+        <file>res/final.png</file>
+        <file>res/MenuSceneEndButton.png</file>
+        <file>res/BackgroundSound.wav</file>
+        <file>res/dingdong.wav</file>
+    </qresource>
+</RCC>
